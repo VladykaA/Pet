@@ -14,7 +14,7 @@ public class PetApplication {
 
         ApplicationContext ctx = SpringApplication.run(PetApplication.class, args);
 
-        System.out.println("something");
+        System.out.println("Success");
 
     }
     @Bean
